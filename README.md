@@ -1,2 +1,0 @@
-# LeagueTec-Repository
-LeagueTec Development
